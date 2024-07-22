@@ -49,7 +49,7 @@ You need a web browser to view the portfolio.
 
 2. Open the port.html file in your web browser.
 
-##Folder Structure
+## Folder Structure
 
 ```
 ├── port.html
