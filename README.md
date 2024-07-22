@@ -46,3 +46,16 @@ You need a web browser to view the portfolio.
    ```sh
    git clone https://github.com/your-username/portfolio-project.git
    cd portfolio-project
+
+2. Open the port.html file in your web browser.
+
+##Folder Structure
+
+```
+├── port.html
+├── port.css
+├── port.js
+├── images
+├── Resume.pdf
+└── README.md
+```
