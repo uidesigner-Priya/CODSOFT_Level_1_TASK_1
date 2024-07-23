@@ -11,10 +11,6 @@ This is a personal portfolio website to showcase my projects, skills, and experi
 - Responsive design for various screen sizes
 - Smooth scrolling and interactive elements
 
-## Demo
-
-Check out the live demo [here](https://your-username.github.io/portfolio-project/).
-
 ## Screenshots
 
 ### Home Page
