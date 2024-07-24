@@ -6,6 +6,7 @@ This is a personal portfolio website to showcase my projects, skills, and experi
 
 - Home page with a brief introduction
 - About page detailing skills and experience
+- Education and skills page showcasing the grades and skills. 
 - Projects page showcasing work samples
 - Contact page with a contact form
 - Responsive design for various screen sizes
@@ -40,10 +41,12 @@ You need a web browser to view the portfolio.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/portfolio-project.git
-   cd portfolio-project
+   https://github.com/uidesigner-Priya/CODSOFT_Level_1_TASK_1.git
+   cd CODSOFT_Level_1_TASK_1
 
 2. Open the port.html file in your web browser.
+
+[!Note] You can replace the resume.pdf with your own resume pdf. 
 
 ## Folder Structure
 
